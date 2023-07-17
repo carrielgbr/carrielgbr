@@ -6,6 +6,14 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=carrielgbr&show_icons=true&theme=cobalt)
 
+
+##
+<div style="text: align-text:center">
+<p> Faço curso tecnico em desenvolvimento de sistemas na ETEC estou no ultimo semestre, faço uso dessas linguagens no meu dia a dia no curso e usando o azure dev ops para uso da metodologia scrum
+
+</p>
+</div>
+
 ##
 ### Tecnologias que eu uso no meu dia
 
@@ -20,13 +28,6 @@
         
     
 
-</div>
-
-##
-<div style="text: align-text:center">
-<p> Faço curso tecnico em desenvolvimento de sistemas na ETEC estou no ultimo semestre 
-
-</p>
 </div>
 
 
