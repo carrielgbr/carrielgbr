@@ -1,4 +1,4 @@
-![carrielgbr GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![carrielgbr GitHub stats](https://github-readme-stats.vercel.app/api?username=carrielgbr&show_icons=true&theme=synthwave)
 
 <div style="display: inline_block">
   <h3>System Operacional</h3> <br>
@@ -19,4 +19,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" heigth="50px" width="50px" />
 </div>         
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrielgbr)](https://github.com/anuraghazra/github-readme-stats)
