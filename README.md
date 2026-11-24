@@ -8,7 +8,6 @@
 [![Fedora 45](https://img.shields.io/badge/Fedora-45-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-25537A?style=for-the-badge&logo=kde&logoColor=white)](https://kde.org/plasma-desktop/)
 [![LPIC-1](https://img.shields.io/badge/LPIC--1-em%20progresso-7c3aed?style=for-the-badge)](https://www.lpi.org/)
-[![Localização](https://img.shields.io/badge/%F0%9F%93%8D%20Tabo%C3%A3o%20da%20Serra-SP-1e2d40?style=for-the-badge)](https://www.google.com/maps/search/?api=1&query=Tabo%C3%A3o+da+Serra+SP)
 
 [![Portfólio ao vivo](https://img.shields.io/badge/Portf%C3%B3lio-ver%20site-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://carrielgbr.github.io/Portifolio/)
 [![Repositório do portfólio](https://img.shields.io/badge/GitHub-Portifolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carrielgbr/Portifolio)
